@@ -1,0 +1,32 @@
+*{
+  margin: 5px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: darkslateblue;
+  padding: 7px;
+  color:beige;
+}
+.li1{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: azure;
+  border-radius: 8px;
+}
+.cat {
+
+  padding: 10px;
+  border-radius: 10px;
+}
+.obs {
+  
+  padding: 10px;
+  border-radius: 10px;
+}
+ul {
+  background-color:bisque;
+  padding: 20px;
+}
