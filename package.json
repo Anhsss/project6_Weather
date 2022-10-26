@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://anhsss.github.io/project6_weather",
+  "homepage": "https://anhsss.github.io/project6_Weather",
   "eslintConfig": {
     "extends": [
       "react-app",
